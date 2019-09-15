@@ -1,2 +1,2 @@
 # Kanban
-Kanban project for practicing React.
+Created a Kanban board to practice React. It's awesome to learn a new framework! 
