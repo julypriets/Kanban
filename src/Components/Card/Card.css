@@ -1,0 +1,46 @@
+.Card{
+    background-color: white;
+    max-width: 85%;
+    text-align: left;
+    padding: 2px 20px;
+    border-radius: 6px;
+    box-shadow: 0 2px 3px #ccc;
+    margin-bottom: 10px;
+}
+
+.add-task{
+    background-color: transparent;
+    border: none;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+.task-input{
+    background-color: white;
+    text-align: left;
+    padding: 2px 20px;
+    box-shadow: 0 2px 3px #ccc;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    border: none;
+    height: 80px;
+    width: 300px;
+    font-size: 0.8em;
+}
+
+.button{
+    border: none;
+    color: white;
+    margin: 2% 2%;
+    font-size: 0.8em;
+    padding: 8px 18px;
+    border-radius: 4px;
+}
+
+.add-button{
+   background-color: #707070;
+}
+
+.cancel-button{
+    background-color: #909090;
+}
